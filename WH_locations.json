@@ -1,0 +1,24 @@
+{
+"locations": [
+  {
+    "Name": "Batu Ceper",
+    "code": "JKT",
+    "latitude": "-6.1586773505543215",
+    "longitude": "106.67367821932615"
+  },
+
+  {
+    "Name": "Medan Satria",
+    "code": "JKT",
+    "latitude": "-6.197583234624195",
+    "longitude": "106.9661753652092"
+   },
+
+  {
+    "Name": "Cawang",
+    "code": "JKT",
+    "latitude": "-6.248932317963531",
+    "longitude": "106.86429602077682"
+  }
+ ]
+}
